@@ -1,0 +1,48 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea---primary.py
+inputModule3:
+  class: File
+  path: python/polymenorrhoea---primary.py
+inputModule4:
+  class: File
+  path: python/menorrhagia---primary.py
+inputModule5:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-period---primary.py
+inputModule6:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-menstruation---primary.py
+inputModule7:
+  class: File
+  path: python/frequent-menorrhagia-and-polymenorrhoea---primary.py
+inputModule8:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-hypermenorrhoea---primary.py
+inputModule9:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-bleeding---primary.py
+inputModule10:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-epimenorrhoea---primary.py
+inputModule11:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-history---primary.py
+inputModule12:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-cycle---secondary.py
+inputModule13:
+  class: File
+  path: python/menorrhagia-and-polymenorrhoea-menstruation---secondary.py
+inputModule14:
+  class: File
+  path: python/excessive-menorrhagia-and-polymenorrhoea---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
